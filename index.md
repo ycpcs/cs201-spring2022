@@ -22,10 +22,12 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 * [CloudCoder (practice problems)](https://cs.ycp.edu/cloudcoder)
 * [CodingBat Java recursion problems](http://codingbat.com/java/Recursion-1)
 * [Practice Exams](practice/index.html)
-* [JDK 16 API documentation](https://docs.oracle.com/en/java/javase/16/docs/api/index.html)
+* [JDK 17 API documentation](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 
 ## News
 * **Jan 27** &mdash; Welcome back!
+* **Feb 8** &mdash; [Assignment 1 Milestone 1](assign/assign01.html) is due.
+* **Feb 21** &mdash; [Assignment 1 Milestone 2](assign/assign01.html) is due.
 
 <!--
 * **Aug 25** &mdash; Welcome back!
