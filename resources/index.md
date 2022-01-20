@@ -6,9 +6,8 @@ title: "Resources"
 This page has links to useful resources for the course.
 
 <div class="callout">
-<b>It it critical that you follow these instructions carefully and set up the environment EXACTLY as described.
+<b>It is critical that you follow these instructions carefully and set up the environment EXACTLY as described.
 </div>
-
 
 ## Java and IntelliJ
 
