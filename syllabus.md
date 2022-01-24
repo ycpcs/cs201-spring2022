@@ -10,8 +10,8 @@ title: "Syllabus"
 **Spring 2022**
 
 Instructors: 
-- 101,103 - <a href="http://faculty.ycp.edu/~kkambhampaty">Dr. Krishna Kambhampaty</a>, <kkambhampaty@ycp.edu>
-- 102 - <a href="http://faculty.ycp.edu/~dbabcock">Dr. David Babcock</a>, <dbabcock@ycp.edu>
+- 101 - <a href="http://faculty.ycp.edu/~dbabcock">Dr. David Babcock</a>, <dbabcock@ycp.edu>
+- 102,103 - <a href="http://faculty.ycp.edu/~kkambhampaty">Dr. Krishna Kambhampaty</a>, <kkambhampaty@ycp.edu>
 
 Office Hours:
 - **Dr. Babcock** - KEC 117A: TBD, or by appointment
