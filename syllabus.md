@@ -15,7 +15,7 @@ Instructors:
 
 Office Hours:
 - **Dr. Babcock** - KEC 117A: M 1:30-3pm, T 2-3pm, W 11am-12pm, R 9:30-11am, or by appointment
-- **Dr. Kambhampaty** - KEC115: TBD, or by appointment
+- **Dr. Kambhampaty** - KEC115: M 9:00-10:30am, T 1-2pm, W 9:00-10:30am, R 1-2pm, or by appointment
 
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
