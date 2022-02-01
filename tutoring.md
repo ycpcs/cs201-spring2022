@@ -10,9 +10,8 @@ The tutors' job is to help students in the course learn the material.  Please do
 
 We will have in-class tutors this year for assistance with the labs and assignments.  Those tutors will be available for the last 30 minutes of each class.
 
-# Evening Sessions - To be scheduled
+# Evening Sessions
 
-<!--
 Monday-Thursday, 6:00pm to 8:30pm in KEC123 
 
 Drop-in tutoring sessions will be held Monday through Thursday from
@@ -22,6 +21,5 @@ assignments, or anything else you have questions about.
 **Important**: Be aware that the evening sessions can be very busy
 close to an assignment deadline.  Your best bet is to *start assignments early*
 and *ask questions early* to avoid the rush.
--->
 
 Please see [How to ask for help](HowToAskForHelp.html) for some advice on how to ask good questions (ones that lead to learning.)
