@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lecture 2: Arrays and ArrayLists"
+title: "Lecture 3: Arrays and ArrayLists"
 ---
 
 Note: see the [course notes on arrays](notes/javaArrays.html) for more detailed information about arrays in Java.
