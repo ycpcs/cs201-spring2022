@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Disk Game"
 ---
 
-**Milestone 1 Due:** Tuesday, Feb 8th by 11:59 PM
+**Milestone 1 Due: Updated** Thursday, Feb 10th by 11:59 PM
 
 **Milestone 2 Due:** Monday, Feb 21st by 11:59 PM
 
