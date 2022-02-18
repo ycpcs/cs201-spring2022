@@ -3,13 +3,13 @@ layout: default
 title: "Assignment 2: Tic Tac Toe"
 ---
 
-**Milestone 1 Due:** Sunday, Sept 26th by 11:59 PM
+**Milestone 1 Due:** Friday, Mar 4th by 11:59 PM
 
-**Milestone 2 Due:** Tuesday, Oct 5th by 11:59 PM
+**Milestone 2 Due:** Tuesday, Mar 15th by 11:59 PM
 
 ## Getting Started
 
-Download [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2021** directory. Import it into your **CS201-Fall2021** IntelliJ project using
+Download [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 

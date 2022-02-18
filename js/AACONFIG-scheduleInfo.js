@@ -45,14 +45,14 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(9, "Inheriting Fields and Methods")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 10: Type casts, instanceof, Object class, Interfaces", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip","examples/CS201_Lecture10_Gradle.zip"),
- 		lab: new NumberedLabGradle(10, "Comparable, Sorting")
- 	},
- 	{
  		topic: new Topic("Exam 1 Review", "")
  	},
  	{
  		topic: new Topic("** Exam 1", "")
+ 	},
+ 	{
+ 		topic: new DoubleTopic("Lecture 10: Type casts, instanceof, Object class, Interfaces", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip","examples/CS201_Lecture10_Gradle.zip"),
+ 		lab: new NumberedLabGradle(10, "Comparable, Sorting")
  	},
  	{
  		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/CS201_Lecture11_Gradle.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),

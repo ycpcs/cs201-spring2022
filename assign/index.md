@@ -13,6 +13,7 @@ Assignments are due by 11:59 PM on the due date, although I will **NOT** assess 
 > Assignment | File | Due
 > ---------- | ---- | ---
 > [Assignment 1: Disk Game](assign01.html) | [CS201\_Assign01\_Gradle.zip](CS201_Assign01_Gradle.zip) | **Updated** MS1 Thur, Feb 10th<br>MS2 Mon, Feb 21st
+> [Assignment 2: Tic Tac Toe](assign02.html) | [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip) | MS1 Fri, Mar 4th<br>MS2 Tues, Mar 15th
 
 <!--
 > [Assignment 2: Tic Tac Toe](assign02.html) | [CS201\_Assign02\_Gradle.zip](CS201_Assign02_Gradle.zip) | MS1 Sun, Sept 26th<br>MS2 Tues, Oct 5th
