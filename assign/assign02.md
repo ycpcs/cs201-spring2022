@@ -247,12 +247,11 @@ It is possible that the tests don't test every possible situation. You may wish 
 	* Fields - 5%
     * Constructor - 10%
     * getTurn - 5% 
-    * getBoard - 5%
     * getCell - 5%
     * placeMarker - 5%
     * updateTurn - 10%
 * **TicTacToeController** class - 55%
-    * makeMove - 15% 
+    * makeMove - 20% 
     * checkWin - 20%
     * checkDraw - 15%
     * changePlayer - 5%
@@ -276,8 +275,8 @@ It is possible that the tests don't test every possible situation. You may wish 
         * draw win message - 5%
         * draw draw message - 5%
 * **TicTacToeController** class - 30%
-    * readBoard - 15% 
-    * writeBoard - 15%
+    * loadGame - 15% 
+    * saveGame - 15%
 
 For both milestones, points may be deducted for poor coding style, including:
 
@@ -297,7 +296,7 @@ Navigate to the directory using
 
 <pre>
 $ <b>cd CS201_Assign02_Gradle</b>
-CS201-Fall2021/CS201_Assign02_Gradle
+CS201-Spring2022/CS201_Assign02_Gradle
 $ <b>make submit_ms1</b>
 </pre>
 
@@ -325,7 +324,7 @@ Navigate to the directory using
 
 <pre>
 $ <b>cd CS201_Assign02_Gradle</b>
-CS201-Fall2021/CS201_Assign02_Gradle
+CS201-Spring2022/CS201_Assign02_Gradle
 $ <b>make submit_ms2</b>
 </pre>
 
