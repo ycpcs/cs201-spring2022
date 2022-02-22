@@ -91,7 +91,7 @@ int[][] board = new int[HEIGHT][WIDTH];
 
 An instance of the **TicTacToeController** class will implement methods that take a **TicTacToeModel** object along with other parameters as needed to call the corresponding model class game logic methods. These include (**note:** the save and load game methods are for milestone 2):
 
-* **public boolean makeMove(TicTacToeModel model, int player, int row, int col)** - This method should check that the move is legal and if so place the marker for the current player. A legal move is one in which the specified row and column are each in the range 0-2 (inclusive), that the board is empty at that position, and it is the turn for the  player trying to place a marker. The method should return **true** if the move is made, and **false** otherwise.
+* **public boolean makeMove(TicTacToeModel model, int player, int row, int col)** - This method should check that the move is legal and if so place the marker for the current player. A legal move is one in which the specified row and column are each in the range 0-**HEIGHT-1** and 0-**WIDTH-1** (inclusive), that the board is empty at that position, and it is the turn for the  player trying to place a marker. The method should return **true** if the move is made, and **false** otherwise.
  
 * **public boolean checkWin(TicTacToeModel model)** - This method should check if the *current player* has a winning configuration. Winning configurations consist of **WIDTH** pieces in a row along a row, **HEIGHT** pieces in a column along a column, or **HEIGHT** pieces along either diagonal. The method should return **true** **ONLY IF** the *current* player has a winning configuration, and **false** otherwise. 
 
