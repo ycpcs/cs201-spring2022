@@ -164,12 +164,12 @@ Assume that, in the following algorithm, the problem size *N* is the number of e
 // this algorithm to work.
 public static<E extends Comparable<E>>
 int binarySearch(E[] arr, E searchVal) {
-    int min = 0, max = arr.length;
+    int min = 0, max = arr.length-1;
 
-    while (min < max) {
+    while (min <= max) {
         int mid = min + (max-min)/2;
 
-        int cmp = arr[mid].compareTo(searchVal);
+        int cmp = searchVal.compareTo(arr[mid]);
 
         if (cmp == 0) {
             return mid;
