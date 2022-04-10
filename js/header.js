@@ -32,6 +32,18 @@ function TripleTopic(title1, link1, title2, link2, title3, link3) {
     this.title3 = title3;
     this.link3 = link3;
 }
+
+function FourTopic(title1, link1, title2, link2, title3, link3, title4, link4) {
+    this.title1 = title1;
+    this.link1 = link1;
+    this.title2 = title2;
+    this.link2 = link2;
+    this.title3 = title3;
+    this.link3 = link3;
+    this.title4 = title4;
+    this.link4 = link4;
+}
+
 ////////////////////////////////////////////////////
 
 

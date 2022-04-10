@@ -90,9 +90,7 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(16, "Generic Algorithms")
  	},
  	{
- 		topic: new Topic("Lecture 17: Lists", "lectures/lecture17.html"),
- 		reading: "6.5",
- 		lab: new NumberedLabGradle(17, "List Reversal")
+ 		topic: new Topic("** SPARTAN DAY", "")
  	},
  	{
  		topic: new Topic("Exam 2 Review", "")
@@ -105,9 +103,9 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(18, "Parallel Estimation of π")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 19: Stacks and Queues", "lectures/lecture19.html", "CS201_Lecture19_Gradle.zip","examples/CS201_Lecture19_Gradle.zip"),
- 		reading: "6.6",
- 		lab: new NumberedLabGradle(19, "Palindromes")
+ 		topic: new TripleTopic("Lecture 17: Lists", "lectures/lecture17.html","Lecture 19: Stacks and Queues", "lectures/lecture19.html", "CS201_Lecture19_Gradle.zip","examples/CS201_Lecture19_Gradle.zip"),
+ 		reading: "6.5-6.6",
+ 		lab: new DoubleNumberedLabGradle(17, "List Reversal", 19, "Palindromes")
  	},
  	{
  		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),

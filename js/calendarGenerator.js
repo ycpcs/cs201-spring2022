@@ -138,6 +138,14 @@ function getTopicString(topic) {
         str += linkify(topic.title2, topic.link2);
         str += "<br>";
         str += linkify(topic.title3, topic.link3);
+    } else if (topic instanceof FourTopic) {
+        str = linkify(topic.title1, topic.link1);
+        str += "<br>";
+        str += linkify(topic.title2, topic.link2);
+        str += "<br>";
+        str += linkify(topic.title3, topic.link3);
+        str += "<br>";
+        str += linkify(topic.title4, topic.link4);
     } else if (topic instanceof VacationDays) {
         str = "<strong>NO CLASS - " + topic.description + "</strong>";
     } else if (topic instanceof FinalExamDay) {
